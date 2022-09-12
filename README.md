@@ -1,2 +1,3 @@
 # tatuarvela.fi
-Redirect to main domain
+
+Redirect to my main domain, [tatuarvela.com](https://tatuarvela.com)
